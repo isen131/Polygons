@@ -1,0 +1,53 @@
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Polygom1.2\bin\Debug\Polygom1.2.exe.config
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Polygom1.2\bin\Debug\Polygom1.2.exe
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Polygom1.2\bin\Debug\Polygom1.2.pdb
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.csprojResolveAssemblyReference.cache
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1._2.Form1.resources
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1._2.Properties.Resources.resources
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.csproj.GenerateResource.Cache
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.exe
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.pdb
+C:\Users\Женя\Desktop\Poligin_1.0\Polygom1.2\bin\Debug\Polygom1.2.exe.config
+C:\Users\Женя\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.exe
+C:\Users\Женя\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.pdb
+C:\Users\Женя\Desktop\Poligin_1.0\Polygom1.2\bin\Debug\Polygom1.2.exe
+C:\Users\Женя\Desktop\Poligin_1.0\Polygom1.2\bin\Debug\Polygom1.2.pdb
+C:\Users\Женя\Desktop\Poligin_1.0\Polygom1.2\bin\Debug\Structs.dll
+C:\Users\Женя\Desktop\Poligin_1.0\Polygom1.2\bin\Debug\Structs.pdb
+C:\Users\Женя\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1._2.Form1.resources
+C:\Users\Женя\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1._2.Properties.Resources.resources
+C:\Users\Женя\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.csproj.GenerateResource.Cache
+C:\Users\crash_000\Desktop\Poligin_1.0\Polygom1.2\bin\Debug\Polygom1.2.exe.config
+C:\Users\crash_000\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.exe
+C:\Users\crash_000\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.pdb
+C:\Users\crash_000\Desktop\Poligin_1.0\Polygom1.2\bin\Debug\Polygom1.2.exe
+C:\Users\crash_000\Desktop\Poligin_1.0\Polygom1.2\bin\Debug\Polygom1.2.pdb
+C:\Users\crash_000\Desktop\Poligin_1.0\Polygom1.2\bin\Debug\Structs.dll
+C:\Users\crash_000\Desktop\Poligin_1.0\Polygom1.2\bin\Debug\Structs.pdb
+C:\Users\crash_000\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.csprojResolveAssemblyReference.cache
+C:\Users\crash_000\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1._2.Circle.resources
+C:\Users\crash_000\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1._2.Form1.resources
+C:\Users\crash_000\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1._2.Properties.Resources.resources
+C:\Users\crash_000\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.csproj.GenerateResource.Cache
+J:\Poligin_1.0\Polygom1.2\bin\Debug\Polygom1.2.exe.config
+J:\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.exe
+J:\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.pdb
+C:\Users\Женя\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1._2.CircleForm.resources
+C:\Users\Женя\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1._2.PolygonForm.resources
+C:\Users\Артём\Desktop\Poligin_1.0\Polygom1.2\bin\Debug\Polygom1.2.exe.config
+C:\Users\Артём\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.exe
+C:\Users\Артём\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.pdb
+C:\Users\Артём\Desktop\Poligin_1.0\Polygom1.2\bin\Debug\Polygom1.2.exe
+C:\Users\Артём\Desktop\Poligin_1.0\Polygom1.2\bin\Debug\Polygom1.2.pdb
+C:\Users\Артём\Desktop\Poligin_1.0\Polygom1.2\bin\Debug\Structs.dll
+C:\Users\Артём\Desktop\Poligin_1.0\Polygom1.2\bin\Debug\Structs.pdb
+C:\Users\Артём\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1._2.CircleForm.resources
+C:\Users\Артём\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1._2.Form1.resources
+C:\Users\Артём\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1._2.PolygonForm.resources
+C:\Users\Артём\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1._2.Properties.Resources.resources
+C:\Users\Артём\Desktop\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.csproj.GenerateResource.Cache
+C:\Users\Женя\Desktop\Проекты VS\Poligin_1.0\Polygom1.2\bin\Debug\Polygom1.2.exe.config
+C:\Users\Женя\Desktop\Проекты VS\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.exe
+C:\Users\Женя\Desktop\Проекты VS\Poligin_1.0\Polygom1.2\obj\Debug\Polygom1.2.pdb

@@ -1,0 +1,16 @@
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Poligin_1.0\bin\Debug\Poligin_1.0.exe.config
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Poligin_1.0\bin\Debug\Poligin_1.0.exe
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Poligin_1.0\bin\Debug\Poligin_1.0.pdb
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Poligin_1.0\obj\Debug\Poligin_1.0.csprojResolveAssemblyReference.cache
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Poligin_1.0\obj\Debug\Poligin_1.0.exe
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Poligin_1.0\obj\Debug\Poligin_1.0.pdb
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Poligin_1.0\bin\Debug\Structs.dll
+D:\Институт\2 курс\Основы программирования\Poligin_1.0\Poligin_1.0\bin\Debug\Structs.pdb
+C:\Users\Артём\Desktop\Poligin_1.0\Poligin_1.0\bin\Debug\Poligin_1.0.exe.config
+C:\Users\Артём\Desktop\Poligin_1.0\Poligin_1.0\bin\Debug\Poligin_1.0.exe
+C:\Users\Артём\Desktop\Poligin_1.0\Poligin_1.0\bin\Debug\Poligin_1.0.pdb
+C:\Users\Артём\Desktop\Poligin_1.0\Poligin_1.0\bin\Debug\Structs.dll
+C:\Users\Артём\Desktop\Poligin_1.0\Poligin_1.0\bin\Debug\Structs.pdb
+C:\Users\Артём\Desktop\Poligin_1.0\Poligin_1.0\obj\Debug\Poligin_1.0.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\Poligin_1.0\Poligin_1.0\obj\Debug\Poligin_1.0.exe
+C:\Users\Артём\Desktop\Poligin_1.0\Poligin_1.0\obj\Debug\Poligin_1.0.pdb
